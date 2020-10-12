@@ -12,10 +12,8 @@
 
 ## Results
 
-        Green stocks performed much better in 2017 than they did in 2018. Refactoring the code made the script's excecution 
-        far more efficient. The time it took to make the calculations for the metrics of these stocks was cut almost in
-        half. With a datase of fairly small size such as the one we are working with, the difference in time is not overly
-        significant, but when larger datasets need to be used, the time saved by refactoring begins to make a big difference.
+        Green stocks performed much better in 2017 than they did in 2018. 2017 saw nearly all positive returns for green stocks, while the opposite proved to be true in 2018.
+        Refactoring the code made the script's excecution far more efficient. The time it took to make the calculations for the metrics of these stocks was cut almost in half.         With a datase of fairly small size such as the one we are working with, the difference in time is not overly significant, but when larger datasets need to be used, the         time saved by refactoring begins to make a big difference.
         
 ![2017](VBA_Challenge_2017.PNG)
 
