@@ -12,6 +12,7 @@
         far more efficient. The time it took to make the calculations for the metrics of these stocks was cut almost in
         half. With a datase of fairly small size such as the one we are working with, the difference in time is not overly
         significant, but when larger datasets need to be used, the time saved by refactoring begins to make a big difference.
+        
 ![2017](VBA_Challenge_2017.png)
 
 ![2018](VBA_Challenge_2018.png)
