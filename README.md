@@ -12,7 +12,7 @@
 
 ## Results
 
-        Green stocks performed much better in 2018 than in 2017. Refactoring the code made the script's excecution 
+        Green stocks performed much better in 2017 than they did in 2018. Refactoring the code made the script's excecution 
         far more efficient. The time it took to make the calculations for the metrics of these stocks was cut almost in
         half. With a datase of fairly small size such as the one we are working with, the difference in time is not overly
         significant, but when larger datasets need to be used, the time saved by refactoring begins to make a big difference.
