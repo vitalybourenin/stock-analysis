@@ -19,7 +19,7 @@
 
 
 #Summary
-     Advantages of refactoring code include mental and time-based efficiencies. If one can recognize a pattern
+       Advantages of refactoring code include mental and time-based efficiencies. If one can recognize a pattern
        for acheiving a goal in analysis, there is no reason to re-do any unneccesary work. However, it is important
        to remember that it is unlikely that the code you are trying to use will not need to be changed, or refactored,
        in some way. It is easier to gloss over small details when refactoring code, and some mistakes may be overlooked
