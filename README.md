@@ -15,6 +15,8 @@
         
 ![2017](VBA_Challenge_2017.PNG)
 
+![2018](VBA_Challenge_2018.PNG)
+
 
 #Summary
      Advantages of refactoring code include mental and time-based efficiencies. If one can recognize a pattern
