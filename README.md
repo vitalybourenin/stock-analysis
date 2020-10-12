@@ -1,4 +1,7 @@
 #### stock-analysis
+
+### Purpose
+
         The purpose of this Analysis was both to create a dynamic model capable of analyzing
         certain metrics for numerous stocks. This allows for easy comparison of metrics
         across companies. Furthermore, this analysis sought to highlight the benifits of refactoring code, 
